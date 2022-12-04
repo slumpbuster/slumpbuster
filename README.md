@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slumpbuster (Dustin Sellers)
 - 👀 I’m interested in Technology: (software development, cyber security, cloud computing), and Health  and Wellness: (fitness, nutrition, meditation)
 - 🔭 I’m currently Team-Lead for the Software Developent Team at Henry Schein Medical Systems
-- 🌱 I’m currently learning Full-stack Web Development - MIT
+- 🌱 I’m currently a graduate student - Georgia Tech
 - 💞️ I’m looking to collaborate on Web Development
 - 💬 Ask me about Anything :)
 - 📫 You can reach me via email: <djsellers17@gmail.com> or [LinkedIn](https://www.linkedin.com/in/dustinsellers/)
